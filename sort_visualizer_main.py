@@ -73,6 +73,7 @@ for i in range(len(presortlist)):
 game_active = True
 sorted = False
 
+
 while game_active:
     # --- Main event loop
     for event in pygame.event.get(): # User did something
